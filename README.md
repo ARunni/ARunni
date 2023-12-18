@@ -6,10 +6,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/akhil-c-1381a4246/" target="_blank">
+  <a href="https://www.linkedin.com/in/arun-c-mohanan-b10937225/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/i.akxil/" target="_blank">
+  <a href="https://www.instagram.com/__mr_ar___?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 
@@ -18,7 +18,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akhi9550.akhi9550&left_color=darkslategrey&right_color=yellowgreen"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ARunni.ARunni&left_color=darkslategrey&right_color=yellowgreen"  />
 </div>
 
 ###
