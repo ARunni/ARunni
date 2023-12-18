@@ -18,7 +18,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ARunni.ARunni&left_color=darkslategrey&right_color=yellowgreen"  />
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=ARunni.ARunni&"  />
 </div>
 
 ###
