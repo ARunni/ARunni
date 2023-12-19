@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Arun C Mohanan From India<br><br>- ⚡ I am passionate about backend development and distributed systems<br>- 🔭  I’m interested in building web applications using Go programming language<br>- 📚  I am a self-taught Golang developer<br>- 🎲 Become a pro</p>
+<p align="left">I'm Arun C Mohanan From India<br><br>- ⚡ I am passionate about backend development and distributed systems<br>- 🔭  I’m interested in building web applications using Go programming language<br>- 📚  I am a self-taught Golang developer<br>- 🎲 Becoming a pro</p>
 
 ###
 
