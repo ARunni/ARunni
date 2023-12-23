@@ -34,6 +34,14 @@
 <p align="left">I'm Arun C Mohanan From India<br><br>- ⚡ I am passionate about backend development and distributed systems<br>- 🔭  I’m interested in building web applications using Go programming language<br>- 📚  I am a self-taught Golang developer<br>- 🎲 Becoming a pro</p>
 
 ###
+<h2 align="center">💻 Projects</h2>
+<p align="left">
+  Projects that I am currently working on:
+</p>
+
+- 🛍️ [ARunni/WatchHive_E-COMMERCE_GO-GIN-FRAMEWORK_CLEAN_ARCH_REST-API](https://github.com/ARunni/WatchHive_E-COMMERCE_GO-GIN-FRAMEWORK_CLEAN_ARCH_REST-API)
+
+###
 
 <h3 align="left">🛠 Language and tools</h3>
 
