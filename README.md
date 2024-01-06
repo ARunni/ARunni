@@ -32,9 +32,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
 <p align="left">I'm Arun C Mohanan From India<br><br>-⚡ I am passionate about backend development and distributed systems <br>- 🔭  I’m interested in building web applications using Go programming language<br>-  📚  I am a self-taught Golang Developer<br>- 🎲 Becoming a Pro</p>
-
 ###
 <h2 align="center">💻 Projects</h2>
 <p align="left">
