@@ -42,7 +42,7 @@
   Projects that I am currently working on:
 </p>
 
--  🛍️ [WatchHive_E-COMMERCE_GO-GIN-FRAMEWORK_CLEAN_ARCH_REST-API](https://github.com/ARunni/WatchHive_E-COMMERCE_GO-GIN-FRAMEWORK_CLEAN_ARCH_REST-API)
+-  🛍️ [ConnectHub_Professional_Network_GO-Gin_FrameWork_Clean_Arch_Microservices](https://github.com/ARunni/ConnectHub_Professional_Network_GO-Gin_FrameWork_Clean_Arch_Microservices.git)
 
 ###
 
